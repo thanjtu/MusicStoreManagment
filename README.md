@@ -64,3 +64,7 @@ Dùng các kiến thức đã học để cấu trúc chương trình thành cá
 - Đây là nơi để xem menu, nhập liệu hay hiển thị kết quả ra màn hình  
 - Không xử lí logic, chỉ tương tác với khách hàng  
 - Các hàm cần thiết: hiển thị, gọi hiển thị các giao diện khác nhau  
+
+
+sudo service mysql start
+sudo mysql -e "USE MusicStore_DB; SHOW TABLES;"

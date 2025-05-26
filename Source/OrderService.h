@@ -1,4 +1,4 @@
-#ifdef _ORDERSERVICE_H_
+#ifndef _ORDERSERVICE_H_
 #define _ORDERSERVICE_H_
 #include "IMusicRepository.h"
 
